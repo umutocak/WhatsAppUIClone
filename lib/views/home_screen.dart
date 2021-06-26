@@ -47,7 +47,7 @@ class _HomePage extends State<HomePage>{
                   title: Text("Yazilimoji" , style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17),),
                   subtitle: Text("Laptopu siberde ku...", style: TextStyle(fontSize: 16),),
                   leading: CircleAvatar(
-                      backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                      backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Padding(
                     padding: const EdgeInsets.all(12.0),
@@ -66,7 +66,7 @@ class _HomePage extends State<HomePage>{
                   title: Text("Yazilimoji" , style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17),),
                   subtitle: Text("Laptopu siberde ku...", style: TextStyle(fontSize: 16),),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Padding(
                     padding: const EdgeInsets.all(12.0),
@@ -83,7 +83,7 @@ class _HomePage extends State<HomePage>{
                   title: Text("Yazilimoji" , style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17),),
                   subtitle: Text("Laptopu siberde ku...", style: TextStyle(fontSize: 16),),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Padding(
                     padding: const EdgeInsets.all(12.0),
@@ -100,7 +100,7 @@ class _HomePage extends State<HomePage>{
                   title: Text("Yazilimoji" , style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17),),
                   subtitle: Text("Laptopu siberde ku...", style: TextStyle(fontSize: 16),),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Padding(
                     padding: const EdgeInsets.all(12.0),
@@ -117,7 +117,7 @@ class _HomePage extends State<HomePage>{
                   title: Text("Yazilimoji" , style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17),),
                   subtitle: Text("Laptopu siberde ku...", style: TextStyle(fontSize: 16),),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Padding(
                     padding: const EdgeInsets.all(12.0),
@@ -134,7 +134,7 @@ class _HomePage extends State<HomePage>{
                   title: Text("Yazilimoji" , style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17),),
                   subtitle: Text("Laptopu siberde ku...", style: TextStyle(fontSize: 16),),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Padding(
                     padding: const EdgeInsets.all(12.0),
@@ -151,7 +151,7 @@ class _HomePage extends State<HomePage>{
                   title: Text("Yazilimoji" , style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17),),
                   subtitle: Text("Laptopu siberde ku...", style: TextStyle(fontSize: 16),),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Padding(
                     padding: const EdgeInsets.all(12.0),
@@ -168,7 +168,7 @@ class _HomePage extends State<HomePage>{
                   title: Text("Yazilimoji" , style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17),),
                   subtitle: Text("Laptopu siberde ku..." , style: TextStyle(fontSize: 16),),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Padding(
                     padding: const EdgeInsets.all(12.0),
@@ -185,7 +185,7 @@ class _HomePage extends State<HomePage>{
                   title: Text("Yazilimoji" , style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17),),
                   subtitle: Text("Laptopu siberde ku..." , style: TextStyle(fontSize: 16),),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Padding(
                     padding: const EdgeInsets.all(12.0),
@@ -210,7 +210,7 @@ class _HomePage extends State<HomePage>{
                     leading: CircleAvatar(
                       radius: 30,
                       backgroundImage: NetworkImage(
-                          "https://scontent.fsaw2-2.fna.fbcdn.net/v/t1.6435-1/p160x160/38942539_1054067498091343_3329843309425197056_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=E1YVM4rz_zwAX9ib_jy&_nc_ht=scontent.fsaw2-2.fna&tp=6&oh=6414cdf46b37688b90e83eaf9a7da0e1&oe=60D40247"),
+                          "https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83"),
                     ),
                     title: Text("Durumum", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17),),
                     subtitle: Text("Laptopu siberde ku..." , style: TextStyle(fontSize: 16),),
@@ -223,7 +223,7 @@ class _HomePage extends State<HomePage>{
                     leading: CircleAvatar(
                       radius: 30,
                       backgroundImage: NetworkImage(
-                          "https://scontent.fsaw2-2.fna.fbcdn.net/v/t1.6435-1/p160x160/38942539_1054067498091343_3329843309425197056_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=E1YVM4rz_zwAX9ib_jy&_nc_ht=scontent.fsaw2-2.fna&tp=6&oh=6414cdf46b37688b90e83eaf9a7da0e1&oe=60D40247"),
+                          "https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83"),
                     ),
                     title: Text(
                       "Umut Ocak",
@@ -252,7 +252,7 @@ class _HomePage extends State<HomePage>{
                     ],
                   ),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Icon(Icons.phone, color: Color(0xff075e54),),
                   onTap: (){},
@@ -270,7 +270,7 @@ class _HomePage extends State<HomePage>{
                     ],
                   ),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Icon(Icons.phone, color: Color(0xff075e54),),
                   onTap: (){},
@@ -288,7 +288,7 @@ class _HomePage extends State<HomePage>{
                     ],
                   ),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Icon(Icons.phone, color: Color(0xff075e54),),
                   onTap: (){},
@@ -306,7 +306,7 @@ class _HomePage extends State<HomePage>{
                     ],
                   ),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Icon(Icons.video_call, color: Color(0xff075e54),),
                   onTap: (){},
@@ -324,7 +324,7 @@ class _HomePage extends State<HomePage>{
                     ],
                   ),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Icon(Icons.phone, color: Color(0xff075e54),),
                   onTap: (){},
@@ -342,7 +342,7 @@ class _HomePage extends State<HomePage>{
                     ],
                   ),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Icon(Icons.video_call, color: Color(0xff075e54),),
                   onTap: (){},
@@ -360,7 +360,7 @@ class _HomePage extends State<HomePage>{
                     ],
                   ),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Icon(Icons.phone, color: Color(0xff075e54),),
                   onTap: (){},
@@ -378,7 +378,7 @@ class _HomePage extends State<HomePage>{
                     ],
                   ),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Icon(Icons.video_call, color: Color(0xff075e54),),
                   onTap: (){},
@@ -396,7 +396,7 @@ class _HomePage extends State<HomePage>{
                     ],
                   ),
                   leading: CircleAvatar(
-                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=GBLIya8o0mYAX_sgch4&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d0ea61ea4b4c7bc2d31f2a9d7cf0378&oe=60CFC0B0&_nc_sid=7bff83'),
+                    backgroundImage: NetworkImage('https://instagram.fsaw2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/64818933_323019198626840_280036149781594112_n.jpg?tp=1&_nc_ht=instagram.fsaw2-1.fna.fbcdn.net&_nc_ohc=V4E62UuX6U8AX-Bcj8D&tn=eWMvsevV9UT8DnhZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=10dc5de82d210c2204b2242a86d35277&oe=60DF1763&_nc_sid=7bff83'),
                   ),
                   trailing: Icon(Icons.video_call, color: Color(0xff075e54),),
                   onTap: (){},
