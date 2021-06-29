@@ -7,11 +7,13 @@ void main() {
 
 class MyTodoApp extends StatelessWidget {
   @override
+
+  //TODO: Firebase veya başka bir backend mimarisi kullanarak, bu uygulamanın gerçek dünyada aktif olarak kullanılabilecek hale getireceğim.
+
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Whatsapp Clone',
       theme: ThemeData(
-
         primarySwatch: Colors.red,
       ),
       home: HomePage(),

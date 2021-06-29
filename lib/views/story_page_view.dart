@@ -14,6 +14,8 @@ class _StoryPageViewState extends State<StoryPageView> {
     final List<StoryItem> storyItems = [
       StoryItem.text(title: '''Mobil kodlama dersini anlatan hocalarımıza destekleri için teşekkür ederiz.''',
           backgroundColor: Colors.blueGrey),
+      StoryItem.text(title: "Bize elbette tebrik etmek düşer. Daha iyilerini yapacağından şüphemiz yok \n\n #Mobil Kodlama dersini anlatan hocalar. \n😉",
+          backgroundColor: Colors.blueGrey),
       StoryItem.pageImage(
           url:
           "https://images.unsplash.com/photo-1553531384-cc64ac80f931?ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8bW91bnRhaW58ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
